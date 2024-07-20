@@ -15,7 +15,7 @@ C2S est une application web en PHP conçue pour aider les entreprises à gérer 
 - **Interface utilisateur responsive:**  L'application est conçue avec Tailwind CSS pour un rendu optimal sur tous les appareils (ordinateurs de bureau, tablettes, mobiles).
 
 ## Plan du site (Sitemap)
-
+'''
 C2S/
 ├── components/
 │ ├── navbar.php
@@ -75,7 +75,7 @@ C2S/
 └── index.php
 └── js/
 └── charts.js
-
+'''
 ## Technologies utilisées
 
 - PHP
